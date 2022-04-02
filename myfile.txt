@@ -1,1 +1,5 @@
-change1
+change5add
+line to Master
+\n add line to b1
+change b2
+conflictb1
